@@ -10,4 +10,4 @@ services:
         - ./package.json:/var/www/app/package.json
       ports:
         - 3000:3000
-        - 9229:9229
+        - 9229:9229 #something change 1
